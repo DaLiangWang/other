@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://d.pcs.baidu.com/file/7460c2d2ebd5e6dfb32e58de28fce083?fid=2499996920-250528-496031301185649&dstime=1543456056&rt=sh&sign=FDtAERV-DCb740ccc5511e5e8fedcff06b081203-0ESEsCl%2FAHE%2Bm766E6qvzQR%2Bdog%3D&expires=8h&chkv=1&chkbd=0&chkpc=&dp-logid=7709481306511362611&dp-callid=0&shareid=2115280489&r=468757979</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>请填上你的开发者证书用户名</string>
+                <key>bundle-version</key>
+                <string>版本</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>请填上标题</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
